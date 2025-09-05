@@ -4,7 +4,7 @@
 SmartDetector est un projet de vision par ordinateur qui utilise un modèle de deep learning pré-entraîné (Faster R-CNN basé sur ResNet50) pour détecter et identifier automatiquement des objets dans des images.  
 Le modèle est entraîné sur le dataset COCO, capable de reconnaître 90 classes d’objets (personnes, voitures, animaux, ballons, etc.).
 
-Chaque objet détecté est entouré d’un rectangle vert et annoté avec son nom ainsi que son score de confiance.
+Chaque objet détecté est entouré d’un rectangle rouge et annoté avec son nom ainsi que son score de confiance.
 
 ---
 
